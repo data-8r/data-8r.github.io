@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Data 8R'
+tagline:          'Data 8R'
+description:      'Introduction to Computational Thinking with Data <br /> Henry Milner <br />'
+url:              https://data8r.org
+baseurl:          /
+
+author:
+  name:           'Henry Milner'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+gems: [jekyll-paginate]
+
+github:
+  repo:           https://github.com/poole/hyde
