@@ -21,10 +21,15 @@ Both required texts are available for free online.  If you want a printed copy o
 - Data 8 lectures from [Spring 2017](https://data8.org/sp17) or [Fall 2016](https://data8.org/fa16): There is some overlap in topics between Data 8 and Data 8R, and you may find lectures or other materials from Data 8 useful.
 - [Documentation for the `datascience` package](https://data8.org/datascience/): We'll be using a Python package called `datascience` that was designed at Berkeley for introductory data science courses like this one.  The documentation will be a useful reference.  (It's possible to access documentation in a Jupyter notebook, without opening a new browser tab.  In a code cell, write the function you're curious about, followed by `?`, and then run the cell.)
 
+## Infrastructure
+- [FIXME](FIXME) is where you'll run code and work on most assignments in this class.  You don't need to install anything to use it, other than a (supported) browser.
+- [Piazza](https://piazza.com) is the primary web-based way for us to communicate with each other.  It's basically a forum with a single discussion board.  If we make an announcement, it will be on Piazza, so be sure to sign up!  If you have a question when you're not in class or at office hours, asking it on Piazza is the fastest way to get an answer.  In the past, many students have enjoyed answering other students' questions.
+- The [okpy](https://okpy.org) autograder and submission system will manage your homework and lab assignment submissions.  You'll submit your work to okpy by running a cell in each assignment's Jupyter notebook.  You can visit the [okpy website](okpy.org) to check your submissions and grades.
+
 ## The Required Components of Your Work
 One goal of this course is that you master the fundamentals of the programming language Python.  Like any language, Python is best learned by repeated, continuous practice.  That's the main purpose of the labs, quizzes, and weekly homework assignments.
 
-1. Weekly homework, which you will do in Jupyter notebooks.  Each notebook includes code to submit itself to [okpy](okpy.org).  You can visit [okpy](okpy.org) to check your submissions and grades.  Each homework will have its own due date, but homeworks will generally be assigned on Thursdays and due Mondays.
+1. Weekly homework, which you will do in Jupyter notebooks.  Each homework will have its own due date, but homeworks will generally be assigned on Thursdays and due Mondays.
 2. Several labs per week.  Each lab is a Jupyter notebook and is submitted to [okpy](okpy.org) in the same fashion as homework.  Each lab is designed so that you can complete it (or almost complete it) during the day's lab session.  You will receive full credit for making a good effort.  Each lab is due at 11:59 PM on the day it's assigned.
 3. Several quizzes, or "vitamins," per week.  Each vitamin is a very short Google Form designed to remind you about what you learned in lecture.  If you're spending more than 10 minutes on a vitamin, please ask for help.
 4. Midterm in class at a date TBD, likely on 7/13 or 7/14. No substitutes except as required by university rules. No computers involved.
