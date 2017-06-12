@@ -11,18 +11,16 @@ of high school algebra and trigonometry, but that kind of math isn't critical to
 
 ## Texts
 ### Required:
-Both required texts are available for free online.  If you want a printed copy of either text, a PDF is available, and there are many stores around campus at which you can print it.
-
-- [Computational Thinking with Data](/textbook) by Henry Milner and Ani Adhikari.
-- [Computational and Inferential Thinking](http://inferentialthinking.org) by Ani Adhikari and John Denero.
+The required text is [Computational Thinking with Data](/textbook), which is available for free online.  If you want a printed copy, a PDF is available, and there are [many stores around campus](https://www.yelp.com/search?find_desc=Printing&find_loc=Berkeley,+CA) at which you can print it.
 
 ### Excellent references
 - [Stack Overflow](http://stackoverflow.com): A great resource for general questions about programming and Python.  If you have a question, probably someone else has asked it here and gotten an answer from an expert.
 - Data 8 lectures from [Spring 2017](https://data8.org/sp17) or [Fall 2016](https://data8.org/fa16): There is some overlap in topics between Data 8 and Data 8R, and you may find lectures or other materials from Data 8 useful.
+- Relatedly, the Data 8 textbook [Computational and Inferential Thinking](http://inferentialthinking.org), by Ani Adhikari and John Denero, overlaps some of the content of this course, and you may find the alternate viewpoint complementary.
 - [Documentation for the `datascience` package](https://data8.org/datascience/): We'll be using a Python package called `datascience` that was designed at Berkeley for introductory data science courses like this one.  The documentation will be a useful reference.  (It's possible to access documentation in a Jupyter notebook, without opening a new browser tab.  In a code cell, write the function you're curious about, followed by `?`, and then run the cell.)
 
 ## Infrastructure
-- [FIXME](FIXME) is where you'll run code and work on most assignments in this class.  You don't need to install anything to use it, other than a (supported) browser.
+- [data8r.datahub.berkeley.edu](https://data8r.datahub.berkeley.edu) is where you'll run code and work on most assignments in this class.  You don't need to install anything to use it, other than a (supported) browser like [Chrome](https://google.com/chrome).
 - [Piazza](https://piazza.com) is the primary web-based way for us to communicate with each other.  It's basically a forum with a single discussion board.  If we make an announcement, it will be on Piazza, so be sure to sign up!  If you have a question when you're not in class or at office hours, asking it on Piazza is the fastest way to get an answer.  In the past, many students have enjoyed answering other students' questions.
 - The [okpy](https://okpy.org) autograder and submission system will manage your homework and lab assignment submissions.  You'll submit your work to okpy by running a cell in each assignment's Jupyter notebook.  You can visit the [okpy website](okpy.org) to check your submissions and grades.
 
