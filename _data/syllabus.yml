@@ -2,16 +2,90 @@ weeks:
   - weekNum: 1
     weekName: Data Science and Python
     weekDuration: 6/26-6/30
+    announcements:
+    - date: 6/24
+      text: "The first day of class is this Monday, 6/26/17.  Lecture is at 1 PM in the HP Auditorium, which is 306 Soda Hall.  Soda is near the Northeast corner of campus."
+    - date: 6/24
+      text: "You can find a schedule of all course events below.  Once office hours are determined, you'll be able to find them in the schedule."
+    - date: 6/24
+      text: "Below the schedule is a detailed calendar of topics and assignments."
+    - date: 6/24
+      text: "Please fill out Vitamin 1 (linked under assignments below), which is a course survey."
     basic: 
     - date: M 6/26
-      lecture: "What is Data Science?"
-      slidesURL: /
-      assignmentName: "Lab 1"
-      assignmentURL: /materials_placeholder
-      reading: "To be Assigned"
-      readingURL: /textbook
-
-    links:
-      - name: "Lecture 1: What is Data Science?"
-        url: /materials_placeholder
+      lectureTitle: "What is Data Science?"
+      slidesURL:
+      readings:
+      - name: "1.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/01/1/intro.html
+      - name: "1.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/01/2/why-data-science.html
+      - name: "1.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/01/3/computational-tools.html
+      - name: "1.4"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/01/4/gender-in-comic-books.html
+      - name: "1.4.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/01/4/1/explorations.html
+      - name: "1.4.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/01/4/2/gender-over-time.html
+      vitamin: "Vitamin 1 (survey)"
+      vitaminURL:
+      assignments:
+      - name: "Lab 1"
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab01
+        dueDate: "today, 6/26, at 11:59 PM"
+    
+    - date: T 6/27
+      lectureTitle: "Figuring out what causes things"
+      slidesURL:
+      readings:
+      - name: "2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/02/causality-and-experiments.html
+      - name: "2.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/02/1/car-efficiency.html
+      - name: "2.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/02/2/similarity-and-randomization.html
+      - name: "2.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/02/3/welfare-subsidies-in-mexico.html
+      vitamin: "Vitamin 2"
+      vitaminURL:
+    
+    - date: W 6/28
+      lectureTitle: "Programming in Python"
+      slidesURL:
+      readings:
+      - name: "3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/03/programming-in-python.html
+      - name: "3.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/03/1/expressions.html
+      - name: "3.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/03/2/numbers.html
+      - name: "3.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/03/3/names.html
+      - name: "3.3.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/03/3/1/example-growth-rates.html
+      vitamin: "Vitamin 3"
+      vitaminURL:
+      assignments:
+      - name: "Lab 2"
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab02
+    
+    - date: Th 6/29
+      lectureTitle: "Using stored code"
+      slidesURL:
+      readings:
+      - name: "3.4"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/03/4/call-expressions.html
+      vitamin: "Vitamin 4"
+      vitaminURL:
+      assignments:
+      - name: "Homework 1"
+        URL: 
+        dueDate: "7/3 at 1 PM"
+    
+    - date: F 6/30
+      assignments:
+      - name: "Lab 3"
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab03
+          
 

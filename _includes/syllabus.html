@@ -1,13 +1,41 @@
 <table id="calendar">
 <tbody>
-<tr><th>Week</th><th>Date</th><th>Lecture</th><th>Assignments</th><th>Reading</th></tr>
+<tr><th>Week</th><th>Date</th><th>Lecture</th><th>Reading</th><th>Vitamin</th><th>Assignments</th></tr>
 {% for org_hash in site.data.syllabus.weeks %}
-  <tr> <td class="weeknum" rowspan="3">{{org_hash.weekNum}}</td>
+  <tr> <td class="weeknum" rowspan="5">{{org_hash.weekNum}}</td>
 	{% for day in org_hash.basic %}
 	<td> {{day.date}} </td>
-	<td> {{day.lecture}}</td>
-	<td>  <a href="{{day.assignmentURL}}">{{day.assignmentName}} </a> </td>
-	<td><a href="{{day.readingURL}}">{{day.reading}} </a> </td>
+	<td>
+    {% if day.slidesURL != null %}
+      <a href="{{day.slidesURL}}">{{day.lectureTitle}} </a>
+    {% else %}
+      {{day.lectureTitle}}
+    {% endif %}
+  </td>
+	<td>
+    {% for reading in day.readings%}
+      <a href="{{reading.URL}}">{{reading.name}}</a>{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  </td>
+	<td>
+    {% if day.vitaminURL != null %}
+      <a href="{{day.vitaminURL}}">{{day.vitamin}} </a>
+    {% else %}
+      {{day.vitamin}}
+    {% endif %}
+  </td>
+	<td>
+    {% for assignment in day.assignments%}
+      {% if assignment.URL != null %}
+        <a href="{{assignment.URL}}">{{assignment.name}} </a>
+      {% else %}
+        {{assignment.name}}
+      {% endif %}
+      {% if assignment.dueDate != null %}
+        (Due {{assignment.dueDate}})
+      {% endif %}
+    {% endfor %}
+  </td>
 	</tr>
 	<tr>
   {% endfor %}

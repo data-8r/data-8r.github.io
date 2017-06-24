@@ -13,25 +13,25 @@
         <!-- Slides -->
         <div class="swiper-slide">
           <div class="wrap">
-          <h3 class="highlighted-subtitle">Week 0 Overview</h3>
+          <h3 class="highlighted-subtitle">Week 0 Overview and Announcements</h3>
           <h2 class="highlighted-title">Getting Started</h2>
           <p class="highlighted-byline">Before June 26th</p> <span class="dividing-bar"></span>
-          <ul class="lists two-col">
+          <ul>
             <li>Enjoy the summer!</li>
           </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
         </div>
 
-      {% for org_hash in site.data.syllabus2.weeks %}
+      {% for org_hash in site.data.syllabus.weeks %}
       {% assign week = org_hash%}
 
         <div class="swiper-slide">
           <div class="wrap">
-          <h3 class="highlighted-subtitle">Week {{week.weekNum}}</h3>
+          <h3 class="highlighted-subtitle">Week {{week.weekNum}} Overview and Announcements</h3>
           <h2 class="highlighted-title">{{week.weekName}}</h2>
           <p class="highlighted-byline">{{week.weekDuration}}</p> <span class="dividing-bar"></span>
-          <ul class="lists two-col">
-          {% for link in week.links%}
-            <li><a href="{{link.url}}">{{link.name}}</a></li>
+          <ul>
+          {% for announcement in week.announcements%}
+            <li><i>{{announcement.date}}:</i> {{announcement.text}}</li>
           {% endfor %}
           </ul> <i class="fa fa-angle-right next animate-3 next-week-overview"></i> </div>
         </div>
@@ -51,7 +51,7 @@
         prevButton: '.swiper-button-prev',
       direction: 'horizontal',
       loop: false,
-      initialSlide:0
+      initialSlide:{{site.data.syllabus.weeks.size}}
     })        
   });
   </script>
