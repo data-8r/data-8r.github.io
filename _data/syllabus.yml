@@ -1,3 +1,5 @@
+currentWeek: 1
+
 weeks:
   - weekNum: 1
     weekName: Data Science and Python
@@ -6,11 +8,9 @@ weeks:
     - date: 6/24
       text: "The first day of class is this Monday, 6/26/17.  Lecture is at 1 PM in the HP Auditorium, which is 306 Soda Hall.  Soda is near the Northeast corner of campus."
     - date: 6/24
-      text: "You can find a schedule of all course events below.  Once office hours are determined, you'll be able to find them in the schedule."
+      text: "You can find a calendar of all course events below.  Once office hours are determined, you'll be able to find them in the calendar.  Below the calendar is a detailed schedule of topics and assignments."
     - date: 6/24
-      text: "Below the schedule is a detailed calendar of topics and assignments."
-    - date: 6/24
-      text: "Please fill out Vitamin 1 (linked under assignments below), which is a course survey."
+      text: "Please fill out <a href='https://goo.gl/forms/XrKpqUUsWK2oKiAI2'>Vitamin 1</a>, which is a course survey."
     basic: 
     - date: M 6/26
       lectureTitle: "What is Data Science?"
@@ -28,8 +28,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/01/4/1/explorations.html
       - name: "1.4.2"
         URL: https://data-8r.gitbooks.io/textbook/chapters/01/4/2/gender-over-time.html
-      vitamin: "Vitamin 1 (survey)"
-      vitaminURL:
+      vitamin: "Vitamin 1 (due 6/26 at 11:59 PM)"
+      vitaminURL: https://goo.gl/forms/XrKpqUUsWK2oKiAI2
       assignments:
       - name: "Lab 1"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab01
@@ -47,7 +47,7 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/02/2/similarity-and-randomization.html
       - name: "2.3"
         URL: https://data-8r.gitbooks.io/textbook/chapters/02/3/welfare-subsidies-in-mexico.html
-      vitamin: "Vitamin 2"
+      vitamin: "Vitamin 2 (due 6/27 at 11:59 PM)"
       vitaminURL:
     
     - date: W 6/28
@@ -81,11 +81,217 @@ weeks:
       assignments:
       - name: "Homework 1"
         URL: 
-        dueDate: "7/3 at 1 PM"
+        dueDate: "7/5 at 1 PM (one day later than usual)"
     
     - date: F 6/30
       assignments:
       - name: "Lab 3"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab03
           
-
+  - weekNum: 2
+    weekName: Digging into Python
+    weekDuration: 7/3-7/7
+    announcements:
+    basic:
+    - date: M 7/3
+      lectureTitle: "Expressions, strings, and methods"
+      slidesURL:
+      readings:
+      vitamin: "Vitamin 5"
+      vitaminURL:
+      assignments:
+      - name: "Lab 4"
+        URL:
+    
+    - date: T 7/4
+      lectureTitle: "Independence Day - no class or section"
+    
+    - date: W 7/5
+      lectureTitle: "Collections and bar charts"
+      slidesURL:
+      readings:
+      vitamin: "Vitamin 6"
+      vitaminURL:
+      assignments:
+      - name: "Lab 5"
+        URL:
+      assignmentsDue:
+      - text: "Homework 1 due at 1 PM"
+    
+    - date: Th 7/6
+      lectureTitle: "Operating on each element of a collection"
+      slidesURL:
+      readings:
+      vitamin: "Vitamin 7"
+      vitaminURL:
+      assignments:
+      - name: "Homework 2"
+        URL:
+        dueDate: "7/11 at 1 PM"
+    
+    - date: F 7/7
+      assignments:
+      - name: "Lab 6"
+        URL:
+  
+  - weekNum: 3
+    weekName: "Probability and tables"
+    weekDuration: 7/10-7/14
+    announcements:
+    basic:
+    
+    - date: M 7/10
+      lectureTitle: "Probability"
+      slidesURL:
+      readings:
+      vitamin: "Vitamin 8"
+      vitaminURL:
+      assignments:
+      - name: "Lab 7"
+        URL:
+    
+    - date: T 7/11
+      lectureTitle: "Associating multiple datasets with tables"
+      slidesURL:
+      readings:
+      vitamin: "Vitamin 9"
+      vitaminURL:
+      assignmentsDue:
+      - text: "Homework 2 due at 1 PM"
+    
+    - date: W 7/12
+      lectureTitle: "Sorting and filtering tables"
+      slidesURL:
+      readings:
+      vitamin: "Vitamin 10"
+      vitaminURL:
+      assignments:
+      - name: "Lab 8"
+        URL:
+  
+    - date: Th 7/13
+      lectureTitle: "Midterm review"
+      slidesURL:
+      readings:
+      vitamin: "Vitamin 11"
+      vitaminURL:
+      assignments:
+      - name: "Homework 3"
+        URL:
+        dueDate: "7/18 at 1 PM"
+    
+    - date: F 7/14
+      lectureTitle: "Midterm exam (1-3 PM, location TBD)"
+  
+  - weekNum: 4
+    weekName: "Advanced visualizations"
+    weekDuration: 7/17-7/21
+    announcements:
+    basic:
+    
+    - date: M 7/17
+      vitamin: "Vitamin 12"
+      vitaminURL:
+      assignments:
+      - name: "Lab 9"
+        URL:
+    
+    - date: T 7/18
+      vitamin: "Vitamin 13"
+      vitaminURL:
+      assignmentsDue:
+      - text: "Homework 3 due at 1 PM"
+    
+    - date: W 7/19
+      vitamin: "Vitamin 14"
+      vitaminURL:
+      assignments:
+      - name: "Lab 10"
+        URL:
+  
+    - date: Th 7/20
+      vitamin: "Vitamin 15"
+      vitaminURL:
+      assignments:
+      - name: "Homework 4"
+        URL:
+        dueDate: "7/25 at 1 PM"
+    
+    - date: F 7/21
+      assignments:
+      - name: "Lab 11"
+        URL:
+  
+  - weekNum: 5
+    weekName:
+    weekDuration: 7/24-7/28
+    announcements:
+    basic:
+    
+    - date: M 7/24
+      vitamin: "Vitamin 16"
+      vitaminURL:
+      assignments:
+      - name: "Lab 12"
+        URL:
+    
+    - date: T 7/25
+      vitamin: "Vitamin 17"
+      vitaminURL:
+      assignmentsDue:
+      - text: "Homework 4 due at 1 PM"
+    
+    - date: W 7/26
+      vitamin: "Vitamin 18"
+      vitaminURL:
+      assignments:
+      - name: "Lab 13"
+        URL:
+  
+    - date: Th 7/27
+      vitamin: "Vitamin 19"
+      vitaminURL:
+      assignments:
+      - name: "Homework 5"
+        URL:
+        dueDate: "8/1 at 1 PM"
+    
+    - date: F 7/28
+      assignments:
+      - name: "Lab 14"
+        URL:
+  
+  - weekNum: 6
+    weekName:
+    weekDuration: 7/31-8/4
+    announcements:
+    basic:
+    
+    - date: M 7/31
+      vitamin: "Vitamin 20"
+      vitaminURL:
+      assignments:
+      - name: "Lab 15"
+        URL:
+    
+    - date: T 8/1
+      vitamin: "Vitamin 21"
+      vitaminURL:
+      assignmentsDue:
+      - text: "Homework 5 due at 1 PM"
+    
+    - date: W 8/2
+      vitamin: "Vitamin 22"
+      vitaminURL:
+      lectureTitle: "Final review"
+      assignments:
+      - name: "Lab 16"
+        URL:
+  
+    - date: Th 8/3
+      vitamin: "Vitamin 23"
+      vitaminURL:
+      lectureTitle: "Final review"
+    
+    - date: F 8/4
+      lectureTitle: "Final exam (1-3 PM, location TBD)"
