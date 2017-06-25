@@ -8,14 +8,15 @@ Absolutely no background in computer programming or statistics is needed.  We wi
 of high school algebra and trigonometry, but that kind of math isn't critical to the course.
 
 ## Texts
-### Required:
+
 The required text is [Computational Thinking with Data](/textbook), which is available for free online.  If you want a printed copy, a PDF is available, and there are [many stores around campus](https://www.yelp.com/search?find_desc=Printing&find_loc=Berkeley,+CA) at which you can print it.
 
 ### Useful references
+- Solutions will be released for all homework and lab assignments after they are due.  Simply click the link to the assignment again on the course schedule.  For lab 1, for example, the solutions notebook will be named `lab01_solution.ipynb`.
 - [Stack Overflow](http://stackoverflow.com): A great resource for general questions about programming and Python.  If you have a question, probably someone else has asked it here and gotten an answer from an expert.
 - Data 8 lectures from [Spring 2017](https://data8.org/sp17) or [Fall 2016](https://data8.org/fa16): There is some overlap in topics between Data 8 and Data 8R, and you may find lectures or other materials from Data 8 useful.
 - Relatedly, the Data 8 textbook [Computational and Inferential Thinking](http://inferentialthinking.org), by Ani Adhikari and John Denero, overlaps some of the content of this course, and you may find the alternate viewpoint complementary.
-- [Documentation for the `datascience` package](https://data8.org/datascience/): We'll be using a Python package called `datascience` that was designed at Berkeley for introductory data science courses like this one.  The documentation will be a useful reference.  (It's possible to access documentation in a Jupyter notebook, without opening a new browser tab.  In a code cell, write the function you're curious about, followed by `?`, and then run the cell.)
+- [Documentation for the `datascience` package](https://data8.org/datascience/): We'll be using a package of Python code called `datascience` that was designed at Berkeley for introductory data science courses like this one.  The documentation will be a useful reference.  (It's possible to access documentation in a Jupyter notebook, without opening a new browser tab.  In a code cell, write the function you're curious about, followed by `?`, and then run the cell.)
 
 ## Infrastructure
 - [data8r.datahub.berkeley.edu](https://data8r.datahub.berkeley.edu) is where you'll run code and work on most assignments in this class.  You don't need to install anything to use it, other than a (supported) browser like [Chrome](https://google.com/chrome).  On the course homepage, click on a link to an assignment to open its folder.  Click on the file with a name ending in `.ipynb` to open the assignment notebook.
