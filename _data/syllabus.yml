@@ -8,11 +8,9 @@ weeks:
     - date: 6/24
       text: "The first day of class is this Monday, 6/26/17.  Lecture is at 1 PM in the HP Auditorium, which is 306 Soda Hall.  Soda is near the Northeast corner of campus."
     - date: 6/24
-      text: "You can find a calendar of all course events below.  Once office hours are determined, you'll be able to find them in the calendar."
+      text: "You can find a calendar of all course events below.  Once office hours are determined, you'll be able to find them in the calendar.  Below the calendar is a detailed schedule of topics and assignments."
     - date: 6/24
-      text: "Below the calendar is a detailed schedule of topics and assignments."
-    - date: 6/24
-      text: "Please fill out Vitamin 1 (linked below under assignments for 6/26), which is a course survey."
+      text: "Please fill out <a href='https://goo.gl/forms/XrKpqUUsWK2oKiAI2'>Vitamin 1</a>, which is a course survey."
     basic: 
     - date: M 6/26
       lectureTitle: "What is Data Science?"
@@ -30,7 +28,7 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/01/4/1/explorations.html
       - name: "1.4.2"
         URL: https://data-8r.gitbooks.io/textbook/chapters/01/4/2/gender-over-time.html
-      vitamin: "Vitamin 1 (survey)"
+      vitamin: "Vitamin 1 (due 6/26 at 11:59 PM)"
       vitaminURL: https://goo.gl/forms/XrKpqUUsWK2oKiAI2
       assignments:
       - name: "Lab 1"
@@ -49,7 +47,7 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/02/2/similarity-and-randomization.html
       - name: "2.3"
         URL: https://data-8r.gitbooks.io/textbook/chapters/02/3/welfare-subsidies-in-mexico.html
-      vitamin: "Vitamin 2"
+      vitamin: "Vitamin 2 (due 6/27 at 11:59 PM)"
       vitaminURL:
     
     - date: W 6/28

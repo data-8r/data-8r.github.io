@@ -162,7 +162,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
-  background-color: #f6f6f6;
+  background-color: #ffffff;
 }
 
 @media (min-width: 48em) {
@@ -302,7 +302,7 @@ a.sidebar-nav-item:focus {
 }
 .theme-data .content a,
 .theme-data .related-posts li a:hover {
-  color: #003A70;
+  color: #207AE0;
 }
 
 .staffer {

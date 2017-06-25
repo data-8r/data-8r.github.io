@@ -26,9 +26,9 @@ The required text is [Computational Thinking with Data](/textbook), which is ava
 ## The Required Components of Your Work
 One goal of this course is that you master the fundamentals of the programming language Python.  Like any language, Python is best learned by repeated, continuous practice.  That's the main purpose of the labs, quizzes, and weekly homework assignments.
 
-1. Weekly homework, which you will do in Jupyter notebooks.  Each homework will have its own due date, but homeworks will generally be assigned on Thursdays and due Tuesdays at 1 PM (before lecture).
-2. Several labs per week.  Each lab is a Jupyter notebook and is submitted to [okpy](okpy.org) in the same fashion as homework.  Each lab is designed so that you can complete it (or almost complete it) during the day's lab session.  Each lab is due at 11:59 PM on the day it's assigned.  If you attend lab, your grade for the lab assignment will be based on a reasonable standard of completion for the lab period.  If you don't attend lab, we expect you to fully complete the lab assignment.
-3. Several quizzes, or "vitamins," per week.  Most vitamins are very short Google Forms designed to remind you about what you learned in lecture.  If you're spending more than 10 minutes on a vitamin, please ask for help.
+1. Weekly homework, which you will do in Jupyter notebooks.  Each homework will have its own due date, but homeworks will generally be assigned on Thursday and due the following Tuesday at 1 PM (before lecture).  Homework 1 is due a day later than other homeworks, since the following Tuesday is a holiday.
+2. Several labs per week.  Each lab is a Jupyter notebook and is submitted to [okpy](okpy.org) in the same fashion as homework.  Each lab is designed so that you can complete it (or almost complete it) during the day's lab session.  Each lab is due at 11:59 PM on the day it's assigned.  If you attend lab, your grade for the lab assignment will be based on a reasonable standard of completion for the lab period, often less than full completion.  If you don't attend lab, we expect you to complete the entire lab assignment to receive full credit.
+3. Several quizzes, or "vitamins," per week.  Most vitamins are very short Google Forms designed to remind you about what you learned in lecture.  If you're spending more than 10 minutes on a vitamin, please ask for help.  Each vitamin is due at 11:59 PM on the day it's assigned.
 4. Midterm in class on 7/14, during the normal Friday lab period 1-3 PM. Location TBD. No substitutes except as required by university rules. No computers involved.
 5. Final exam in class on 8/4, during the normal Friday lab period 1-3 PM. Location TBD. No computers involved. The final is required for getting a passing grade.
 
@@ -38,7 +38,7 @@ Data science is not a solitary activity; please expect to attend lectures, discu
 We would prefer not to assign grades at all; it is our job as instructors to teach material that is exciting to you and useful for the rest of your life. Humans are natural learners, and grades sometimes diminish that capacity. Still, grades help to motivate learning for some people, and the university requires that we assign them.
 
 Your overall grade percentage will be a weighted average of your work on each type of assignment:
-* Homework (5): 20%
+* Homework: 20%
 * Short (Monday/Wednesday) labs: 10%
 * Long (Friday) labs: 10%
 * Vitamins (quizzes): 20%
@@ -47,7 +47,7 @@ Your overall grade percentage will be a weighted average of your work on each ty
 
 We will drop some of your lowest assignment grades.  This comes with a caveat: we will only drop assignments on which you've shown a *reasonable effort*.  For example, if you don't turn in an assignment, we won't drop it, and instead we'll drop your next lowest grade.  One homework, two short labs, and four vitamins will be dropped in this way.
 
-In many Berkeley courses, letter grades do not have strict cutoffs, like 90% for an A-.  The instructors will decide the cutoffs at the end of the term based on our judgement of the difficulty of the material and the efforts made by students.  You are not competing with other students; we are happy to assign mostly As and Bs if most students make a strong effort and master the material.
+As in many Berkeley courses, letter grades will not have predefined cutoffs, like 90% for an A-.  The instructors will decide the cutoffs at the end of the term based on our judgement of the difficulty of the material and the efforts made by students.  You are not competing with other students; we are happy to assign mostly As and Bs if most students make a strong effort and master the material.
 
 ### Collaboration
 Working with other people is usually, but not always, a very good way to learn.  We therefore encourage collaboration in most areas of the course, with a few exceptions.  You are completely free to collaborate on labs, homeworks, and vitamins, except that:
