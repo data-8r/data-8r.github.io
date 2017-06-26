@@ -11,6 +11,8 @@ weeks:
       text: "You can find a calendar of all course events below.  Once office hours are determined, you'll be able to find them in the calendar.  Below the calendar is a detailed schedule of topics and assignments."
     - date: 6/24
       text: "Please fill out <a href='https://goo.gl/forms/XrKpqUUsWK2oKiAI2'>Vitamin 1</a>, which is a course survey."
+    - date: 6/25
+      text: "Please bring a laptop to class if you are able!  Loaner laptops are available (supply permitting) from the library.  There are detailed instructions under Infrastructure <a href='/logistics'>here</a>."
     basic: 
     - date: M 6/26
       lectureTitle: "What is Data Science?"
