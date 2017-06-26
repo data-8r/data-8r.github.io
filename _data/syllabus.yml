@@ -16,7 +16,7 @@ weeks:
     basic: 
     - date: M 6/26
       lectureTitle: "What is Data Science?"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1oGl4vSv-QvytcbiiAlNfM5Ni5YW-gHPr27eGhJy8x5s/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "1"
         URL: https://data-8r.gitbooks.io/textbook/chapters/01/intro.html
