@@ -22,6 +22,7 @@ The required text is [Computational Thinking with Data](/textbook), which is ava
 - [data8r.datahub.berkeley.edu](https://data8r.datahub.berkeley.edu) is where you'll run code and work on most assignments in this class.  You don't need to install anything to use it, other than a (supported) browser like [Chrome](https://google.com/chrome).  You don't usually need to visit the site directly: to work on an assignment, click its link on the course homepage.  (You may need to sign in to your @berkeley.edu Google account and then click Start Server.)  Click on the file with a name ending in `.ipynb` to open the assignment notebook.
 - [Piazza](https://piazza.com) is the primary web-based way for us to communicate with each other.  It's basically a forum with a single discussion board.  If we make an announcement, it will be on Piazza, so be sure to sign up!  If you have a question when you're not in class or at office hours, asking it on Piazza is the fastest way to get an answer.  In the past, many students have enjoyed answering other students' questions.
 - The [okpy](https://okpy.org) autograder and submission system will manage your homework and lab assignment submissions.  You'll submit your work to okpy by running a cell in each assignment's Jupyter notebook.  You can visit the [okpy website](okpy.org) to check your submissions and grades.
+- When exams happen, exam grades (and a graded copy of your exam) will be available at [Gradescope](gradescope.com).
 
 ## The Required Components of Your Work
 One goal of this course is that you master the fundamentals of the programming language Python.  Like any language, Python is best learned by repeated, continuous practice.  That's the main purpose of the labs, quizzes, and weekly homework assignments.
@@ -48,6 +49,12 @@ Your overall grade percentage will be a weighted average of your work on each ty
 We will drop some of your lowest assignment grades.  This comes with a caveat: we will only drop assignments on which you've shown a *reasonable effort*.  For example, if you don't turn in an assignment, we won't drop it, and instead we'll drop your next lowest grade.  One homework, two short labs, and four vitamins will be dropped in this way.
 
 As in many Berkeley courses, letter grades will not have predefined cutoffs, like 90% for an A-.  The instructors will decide the cutoffs at the end of the term based on our judgement of the difficulty of the material and the efforts made by students.  You are not competing with other students; we are happy to assign mostly As and Bs if most students make a strong effort and master the material.
+
+#### Finding your grades
+[bCourses](bcourses.berkeley.edu) is where final grades will be posted, but unfortunately it's not very good.  Instead you can find your grades in 3 places:
+* Homework and lab grades are available on [okpy](okpy.org).
+* Vitamin grades are available on the forms themselves after you submit them.
+* Exam grades are available on [Gradescope](gradescope.com).
 
 ### Collaboration
 Working with other people is usually, but not always, a very good way to learn.  We therefore encourage collaboration in most areas of the course, with a few exceptions.  You are completely free to collaborate on labs, homeworks, and vitamins, except that:
