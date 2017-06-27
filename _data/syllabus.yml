@@ -53,7 +53,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/yk6WorMmuZQRsqyA2
       assignments:
       - name: "Section 1"
-        URL: https://raw.githubusercontent.com/data-8r/course-assets/blob/master/materials/su17/section/sec1/sec1.pdf
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec1/sec1.pdf
     
     - date: W 6/28
       lectureTitle: "Programming in Python"
