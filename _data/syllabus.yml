@@ -51,6 +51,9 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/02/3/welfare-subsidies-in-mexico.html
       vitamin: "Vitamin 2 (due 6/27 at 11:59 PM)"
       vitaminURL: https://goo.gl/forms/yk6WorMmuZQRsqyA2
+      assignments:
+      - name: "Section 1"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/blob/master/materials/su17/section/sec1/sec1.pdf
     
     - date: W 6/28
       lectureTitle: "Programming in Python"
