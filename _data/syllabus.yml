@@ -75,7 +75,7 @@ weeks:
       - name: "3.3.1"
         URL: https://data-8r.gitbooks.io/textbook/chapters/03/3/1/example-growth-rates.html
       vitamin: "Vitamin 3"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/3sSqCzWwPQzlqc282
       assignments:
       - name: "Lab 2"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab02
