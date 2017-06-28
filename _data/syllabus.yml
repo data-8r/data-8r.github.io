@@ -13,6 +13,8 @@ weeks:
       text: "Please fill out <a href='https://goo.gl/forms/XrKpqUUsWK2oKiAI2'>Vitamin 1</a>, which is a course survey."
     - date: 6/25
       text: "Please bring a laptop to class if you are able!  Loaner laptops are available (supply permitting) from the library.  There are detailed instructions under Infrastructure <a href='/logistics'>here</a>."
+    - date: 6/27
+      text: "Many of you are having a hard time getting lunch between 12:00 and our lecture.  Cara Stanley, the Summer Bridge Director, has a couple of suggestions.  First, you can pack a lunch from the dining halls in the morning.  You might also be surprised at how long the break is: remember, Berkeley time means you have 70 minutes, and it's at most a 20-minute walk from Unit 3 to Soda.  You can also take the <a href='https://www.google.com/maps/d/u/0/viewer?ll=37.87327833939022%2C-122.25987200000003&spn=0.014143%2C0.027874&msa=0&mid=1amNeTKYFFpitMjZTdOPY2CGAebc&z=15'>perimeter line</a> with your <a href='http://pt.berkeley.edu/transportation-options/public-transportation-berkeley-and-beyond/ac-transit-student-classpass'>free transit pass</a>."
     basic: 
     - date: M 6/26
       lectureTitle: "What is Data Science?"
