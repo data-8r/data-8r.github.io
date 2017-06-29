@@ -18,7 +18,7 @@ weeks:
     - date: 6/28
       text: "I've been made aware that the Summer Bridge program requires you to move out on the morning of August 4.  So I've rescheduled the final exam for August 3 from 1 to 3 PM, during the usual lecture and section times."
     - date: 6/29
-      text: "Homework 1 will come out some time this afternoon.  Homework is usually due on Tuesdays, but this one is due Wednesday before lecture due to the holiday."
+      text: "<a href='https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/hw/hw01'>Homework 1</a> is out now!  Homework is usually due on Tuesdays, but this one is due Wednesday before lecture due to the holiday."
     basic: 
     - date: M 6/26
       lectureTitle: "What is Data Science?"
@@ -98,7 +98,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/ZavReh33GOZU9pbr1
       assignments:
       - name: "Homework 1"
-        URL: 
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/hw/hw01
         dueDate: "7/5 at 1 PM (one day later than usual)"
     
     - date: F 6/30
