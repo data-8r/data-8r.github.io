@@ -17,6 +17,8 @@ weeks:
       text: "Many of you are having a hard time getting lunch between 12:00 and our lecture.  Cara Stanley, the Summer Bridge Director, has a couple of suggestions.  First, you can pack a lunch from the dining halls in the morning.  You might also be surprised at how long the break is: remember, Berkeley time means you have 70 minutes, and it's at most a 20-minute walk from Unit 3 to Soda.  You can also take the <a href='https://www.google.com/maps/d/u/0/viewer?ll=37.87327833939022%2C-122.25987200000003&spn=0.014143%2C0.027874&msa=0&mid=1amNeTKYFFpitMjZTdOPY2CGAebc&z=15'>perimeter line</a> with your <a href='http://pt.berkeley.edu/transportation-options/public-transportation-berkeley-and-beyond/ac-transit-student-classpass'>free transit pass</a>."
     - date: 6/28
       text: "I've been made aware that the Summer Bridge program requires you to move out on the morning of August 4.  So I've rescheduled the final exam for August 3 from 1 to 3 PM, during the usual lecture and section times."
+    - date: 6/29
+      text: "Homework 1 will come out some time this afternoon.  Homework is usually due on Tuesdays, but this one is due Wednesday before lecture due to the holiday."
     basic: 
     - date: M 6/26
       lectureTitle: "What is Data Science?"
@@ -88,6 +90,10 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/03/4/call-expressions.html
       - name: "Section 2 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec2/sec2.pdf
+      - name: "Evan Muzzall's slides on pollution and asthma (PDF)"
+        URL: https://github.com/data-8r/course-assets/raw/gh-pages/lectures/lecture04-air_pollution_and_asthma.pdf
+      - name: "(PowerPoint)"
+        URL: https://github.com/data-8r/course-assets/raw/gh-pages/lectures/lecture04-air_pollution_and_asthma.pptx
       vitamin: "Vitamin 4"
       vitaminURL: https://goo.gl/forms/ZavReh33GOZU9pbr1
       assignments:
