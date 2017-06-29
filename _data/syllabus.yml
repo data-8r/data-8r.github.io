@@ -82,12 +82,12 @@ weeks:
     
     - date: Th 6/29
       lectureTitle: "Using stored code"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/16m2UvlJ_ptGU1Go9GinyU846DzsNyxEfTqm4Mn928PE/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "3.4"
         URL: https://data-8r.gitbooks.io/textbook/chapters/03/4/call-expressions.html
       vitamin: "Vitamin 4"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/ZavReh33GOZU9pbr1
       assignments:
       - name: "Homework 1"
         URL: 
