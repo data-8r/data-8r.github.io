@@ -86,6 +86,8 @@ weeks:
       readings:
       - name: "3.4"
         URL: https://data-8r.gitbooks.io/textbook/chapters/03/4/call-expressions.html
+      - name: "Section 2 worksheet"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec2/sec2.pdf
       vitamin: "Vitamin 4"
       vitaminURL: https://goo.gl/forms/ZavReh33GOZU9pbr1
       assignments:
