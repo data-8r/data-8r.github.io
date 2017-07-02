@@ -1,4 +1,4 @@
-currentWeek: 1
+currentWeek: 2
 
 weeks:
   - weekNum: 1
@@ -115,6 +115,12 @@ weeks:
       lectureTitle: "Expressions, strings, and methods"
       slidesURL:
       readings:
+      - name: "4"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/04/data-types.html
+      - name: "4.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/04/1/strings.html
+      - name: "4.1.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/04/1/1/string-methods.html
       vitamin: "Vitamin 5"
       vitaminURL:
       assignments:
@@ -128,6 +134,12 @@ weeks:
       lectureTitle: "Collections and bar charts"
       slidesURL:
       readings:
+      - name: "4.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/04/3/sequences.html
+      - name: "4.4"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/04/4/arrays.html
+      - name: "4.5"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/04/5/ranges.html
       vitamin: "Vitamin 6"
       vitaminURL:
       assignments:
@@ -140,6 +152,8 @@ weeks:
       lectureTitle: "Operating on each element of a collection"
       slidesURL:
       readings:
+      - name: "4.6"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/04/6/more-on-arrays.html
       vitamin: "Vitamin 7"
       vitaminURL:
       assignments:
