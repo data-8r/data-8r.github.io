@@ -110,10 +110,14 @@ weeks:
     weekName: Digging into Python
     weekDuration: 7/3-7/7
     announcements:
+    - date: 7/3
+      text: "See the calendar below for the office hours schedule.  All office hours are in room 201A in the Student Learning Center, which is near Sproul Plaza."
+    - date: 7/3
+      text: "There's no class, section, or office hours on Tuesday, July 4, since it's a holiday.  Happy 4th!"
     basic:
     - date: M 7/3
       lectureTitle: "Expressions, strings, and methods"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1sfx1h21J7d5CNn5iwup3EJo0TafzYRElQXVcYdoBJnA/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "4"
         URL: https://data-8r.gitbooks.io/textbook/chapters/04/data-types.html
@@ -125,7 +129,7 @@ weeks:
       vitaminURL:
       assignments:
       - name: "Lab 4"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab04
     
     - date: T 7/4
       lectureTitle: "Independence Day - no class or section"
