@@ -126,7 +126,7 @@ weeks:
       - name: "4.1.1"
         URL: https://data-8r.gitbooks.io/textbook/chapters/04/1/1/string-methods.html
       vitamin: "Vitamin 5"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/oN9ITX191wMqrPAl2
       assignments:
       - name: "Lab 4"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab04
