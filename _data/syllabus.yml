@@ -114,6 +114,16 @@ weeks:
       text: "See the calendar below for the office hours schedule.  All office hours are in room 201A in the Student Learning Center, which is near Sproul Plaza."
     - date: 7/3
       text: "There's no class, section, or office hours on Tuesday, July 4, since it's a holiday.  Happy 4th!"
+    - date: 7/5
+      text: "Homework 1 is due today at <b>1 PM</b> - before lecture."
+    - date: 7/5
+      text: "The midterm exam will be next week, 1-3 PM on Friday, July 14.  We're going to hold it in the rooms you'd usually be in for lab (<i>not</i> the lecture room, which is noisy and dark and has tiny desks).  Be sure to go to the lab you're assigned."
+    - date: 7/5
+      text: "The midterm will cover material up to and including next Monday, July 10.  The topics in lecture, reading, labs, vitamins, or homeworks are fair game.  Stay tuned for practice materials."
+    - date: 7/5
+      text: "As previously mentioned, the final exam will be on August 3, 1-3 PM on the Thursday of the last week.  It will also be in the lab rooms."
+    - date: 7/5
+      text: "Textbook section 4.2 is optional (though worth reading) and won't be covered in lecture."
     basic:
     - date: M 7/3
       lectureTitle: "Expressions, strings, and methods"
@@ -136,7 +146,7 @@ weeks:
     
     - date: W 7/5
       lectureTitle: "Collections and bar charts"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1oEPG5FUmfXDHxX-3MOWD9frWWah-VHeOoW4OU5Pb3Ik/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "4.3"
         URL: https://data-8r.gitbooks.io/textbook/chapters/04/3/sequences.html
@@ -145,10 +155,10 @@ weeks:
       - name: "4.5"
         URL: https://data-8r.gitbooks.io/textbook/chapters/04/5/ranges.html
       vitamin: "Vitamin 6"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/96YEyp06qJThlCXC2
       assignments:
       - name: "Lab 5"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab05
       assignmentsDue:
       - text: "Homework 1 due at 1 PM"
     
