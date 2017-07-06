@@ -164,12 +164,12 @@ weeks:
     
     - date: Th 7/6
       lectureTitle: "Operating on each element of a collection"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1RBqVXQk59VC54ttZEPDXM3MmkwJwdszp1zGvYezJBXg/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "4.6"
         URL: https://data-8r.gitbooks.io/textbook/chapters/04/6/more-on-arrays.html
       vitamin: "Vitamin 7"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/zhsziQkQxxA4jqNJ2
       assignments:
       - name: "Homework 2"
         URL:
