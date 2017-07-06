@@ -168,6 +168,8 @@ weeks:
       readings:
       - name: "4.6"
         URL: https://data-8r.gitbooks.io/textbook/chapters/04/6/more-on-arrays.html
+      - name: "Section 2 worksheet"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec4/sec4.pdf
       vitamin: "Vitamin 7"
       vitaminURL: https://goo.gl/forms/zhsziQkQxxA4jqNJ2
       assignments:
