@@ -180,7 +180,7 @@ weeks:
     - date: F 7/7
       assignments:
       - name: "Lab 6"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab06
   
   - weekNum: 3
     weekName: "Probability and tables"
