@@ -145,7 +145,7 @@ weeks:
       lectureTitle: "Independence Day - no class or section"
     
     - date: W 7/5
-      lectureTitle: "Collections and bar charts"
+      lectureTitle: "Collections"
       slidesURL: https://docs.google.com/presentation/d/1oEPG5FUmfXDHxX-3MOWD9frWWah-VHeOoW4OU5Pb3Ik/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "4.3"
@@ -189,7 +189,7 @@ weeks:
     basic:
     
     - date: M 7/10
-      lectureTitle: "Tables and visualizing distributions"
+      lectureTitle: "Tables and visualizing distributions (bar charts)"
       slidesURL:
       readings:
       - name: "5"
@@ -205,7 +205,7 @@ weeks:
         URL:
     
     - date: T 7/11
-      lectureTitle: "Visualizing numerical distributions"
+      lectureTitle: "Visualizing numerical distributions (histograms)"
       slidesURL:
       readings:
       vitamin: "Vitamin 9"
