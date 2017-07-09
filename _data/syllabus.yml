@@ -183,15 +183,21 @@ weeks:
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab06
   
   - weekNum: 3
-    weekName: "Probability and tables"
+    weekName: "Distributions and tables"
     weekDuration: 7/10-7/14
     announcements:
     basic:
     
     - date: M 7/10
-      lectureTitle: "Probability"
+      lectureTitle: "Tables and visualizing distributions"
       slidesURL:
       readings:
+      - name: "5"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/05/visualizing-distributions.html
+      - name: "5.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/05/1/interlude-tables.html
+      - name: "5.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/05/2/visualizing-categorical-distributions.html
       vitamin: "Vitamin 8"
       vitaminURL:
       assignments:
@@ -199,7 +205,7 @@ weeks:
         URL:
     
     - date: T 7/11
-      lectureTitle: "Associating multiple datasets with tables"
+      lectureTitle: "Visualizing numerical distributions"
       slidesURL:
       readings:
       vitamin: "Vitamin 9"
