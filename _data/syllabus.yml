@@ -190,7 +190,7 @@ weeks:
     basic:
     - date: M 7/10
       lectureTitle: "Tables and visualizing distributions (bar charts)"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1sGzcpWpiyBySkGZZPUQL-cpp-AoeU_O4XDC-lQs4KN4/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "5"
         URL: https://data-8r.gitbooks.io/textbook/chapters/05/visualizing-distributions.html
