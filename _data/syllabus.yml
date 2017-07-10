@@ -61,7 +61,6 @@ weeks:
       vitaminURL: https://goo.gl/forms/yk6WorMmuZQRsqyA2
       assignments:
 
-    
     - date: W 6/28
       lectureTitle: "Programming in Python"
       slidesURL: https://docs.google.com/presentation/d/1vnHWt9kd5ROnAtGkevtrAZTvmO8z0BzOWKecinCmdIk/pub?start=false&loop=false&delayms=60000
@@ -186,8 +185,9 @@ weeks:
     weekName: "Distributions and tables"
     weekDuration: 7/10-7/14
     announcements:
+    - date: 7/10
+      text: "The midterm <b>won't</b> cover histograms.  It will cover material up through section 5.2 of the textbook, on bar charts and count/frequency distributions of categorical variables.</b>"
     basic:
-    
     - date: M 7/10
       lectureTitle: "Tables and visualizing distributions (bar charts)"
       slidesURL:
@@ -199,7 +199,7 @@ weeks:
       - name: "5.2"
         URL: https://data-8r.gitbooks.io/textbook/chapters/05/2/visualizing-categorical-distributions.html
       vitamin: "Vitamin 8"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/zd1LGN8wOyBOXSRN2
       assignments:
       - name: "Lab 7"
         URL:
@@ -208,6 +208,8 @@ weeks:
       lectureTitle: "Visualizing numerical distributions (histograms)"
       slidesURL:
       readings:
+      - name: "5.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/05/2/visualizing-numerical-distributions.html
       vitamin: "Vitamin 9"
       vitaminURL:
       assignmentsDue:
