@@ -202,7 +202,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/zd1LGN8wOyBOXSRN2
       assignments:
       - name: "Lab 7"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab07
     
     - date: T 7/11
       lectureTitle: "Visualizing numerical distributions (histograms)"
