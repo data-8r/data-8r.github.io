@@ -212,6 +212,8 @@ weeks:
       readings:
       - name: "5.3"
         URL: https://data-8r.gitbooks.io/textbook/chapters/05/2/visualizing-numerical-distributions.html
+      - name: "Section 5 worksheet"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec5/sec5.pdf
       vitamin: "Vitamin 9"
       vitaminURL: https://goo.gl/forms/hsMzbVqKmh9D1QIH3
       assignmentsDue:
