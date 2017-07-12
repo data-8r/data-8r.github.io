@@ -189,6 +189,12 @@ weeks:
       text: "The midterm <b>won't</b> cover histograms.  It will cover material up through section 5.2 of the textbook, on bar charts and count/frequency distributions of categorical variables.</b>"
     - date: 7/11
       text: "Due to technical issues with submitting homework 2, we've pushed the deadline back slightly to 4 PM today.  See <a href='https://piazza.com/class/j2s02t844m37e4?cid=13'>the Piazza post</a> for details."
+    - date: 7/12
+      text: "Homework 1 grades have been released on <a href='http://okpy.org'>okpy.org</a>.  Everyone did well; the median was 22/26.  The scores on okpy don't include the bonus point for early turn-in, but the point will be included in your actual grade."
+    - date: 7/12
+      text: "Solutions have been released for many assignments, up to lab 7 and homework 2.  Click the link to the assignment and find the notebook ending in '_solution.ipynb'."
+    - date: 7/12
+      text: "The study guide and practice exam have been posted on Piazza.  We won't post solutions to the practice exam, but we encourage you to use the study guide thread on Piazza to share solutions."
     basic:
     - date: M 7/10
       lectureTitle: "Tables and visualizing distributions (bar charts)"
