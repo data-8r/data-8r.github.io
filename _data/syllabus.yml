@@ -194,7 +194,7 @@ weeks:
     - date: 7/12
       text: "Solutions have been released for many assignments, up to lab 7 and homework 2.  Click the link to the assignment and find the notebook ending in '_solution.ipynb'."
     - date: 7/12
-      text: "The study guide and practice exam have been posted on Piazza.  We won't post solutions to the practice exam, but we encourage you to use the study guide thread on Piazza to share solutions."
+      text: "The study guide and practice exam have been posted on Piazza.  We won't post solutions to the practice exam, but we encourage you to use the study guide thread on Piazza to share solutions.  <b>You can also ask any questions on Piazza (including solutions), and we will answer.</b>"
     basic:
     - date: M 7/10
       lectureTitle: "Tables and visualizing distributions (bar charts)"
