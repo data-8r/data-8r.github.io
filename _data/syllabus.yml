@@ -227,7 +227,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/wJwstxapcIcAnMf33
       assignments:
       - name: "Lab 8"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab08
   
     - date: Th 7/13
       lectureTitle: "Midterm review"
