@@ -253,6 +253,16 @@ weeks:
       lectureTitle: "Line plots, scatter plots, and maps"
       slidesURL:
       readings:
+      - name: "6"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/tables.html
+      - name: "6.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/1/sorting-rows.html
+      - name: "6.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/2/selecting-rows.md
+      - name: "6.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/3/example-trends-in-the-population-of-the-united-states.md
+      - name: "6.4"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/4/example-gender-ratio-in-the-us-population.md
       vitamin: "Vitamin 12"
       vitaminURL:
       assignments:
