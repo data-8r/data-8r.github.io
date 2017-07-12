@@ -221,10 +221,10 @@ weeks:
     
     - date: W 7/12
       lectureTitle: "Visualizing distributions, continued"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1lM1kVfAP9h2tcVS7o5KazdiV2H2F0K4Sd7w4Ds5PNdA/pub?start=false&loop=false&delayms=60000
       readings:
       vitamin: "Vitamin 10"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/wJwstxapcIcAnMf33
       assignments:
       - name: "Lab 8"
         URL:
