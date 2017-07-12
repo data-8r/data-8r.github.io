@@ -220,7 +220,7 @@ weeks:
       - text: "Homework 2 due at 4 PM"
     
     - date: W 7/12
-      lectureTitle: "Sorting and filtering tables"
+      lectureTitle: "Visualizing distributions, continued"
       slidesURL:
       readings:
       vitamin: "Vitamin 10"
