@@ -237,10 +237,10 @@ weeks:
   
     - date: Th 7/13
       lectureTitle: "Midterm review"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1RwaQ2uk1PfPsf3P0TuS3xawDkrfJvcqUqqBNKpGquWI/pub?start=false&loop=false&delayms=60000
       readings:
       vitamin: "Vitamin 11 (review)"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/M6CdpJ6DcI9HNdrM2
       assignments:
       - name: "Homework 3"
         URL:
