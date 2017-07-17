@@ -197,7 +197,7 @@ weeks:
       text: "The study guide and practice exam have been posted on Piazza.  We won't post solutions to the practice exam, but we encourage you to use the study guide thread on Piazza to share solutions.  <b>You can also ask any questions on Piazza (including solutions), and we will answer.</b>"
     basic:
     - date: M 7/10
-      lectureTitle: "Tables and visualizing distributions (bar charts)"
+      lectureTitle: "Introduction to Tables"
       slidesURL: https://docs.google.com/presentation/d/1sGzcpWpiyBySkGZZPUQL-cpp-AoeU_O4XDC-lQs4KN4/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "5"
@@ -213,7 +213,7 @@ weeks:
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab07
     
     - date: T 7/11
-      lectureTitle: "Visualizing distributions"
+      lectureTitle: "Visualizing distributions - bar charts"
       slidesURL: https://docs.google.com/presentation/d/17V5sqZ9rBpahdg3RCMhsOlIdU5R4rW1lithIri78TXo/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "5.3"
@@ -226,7 +226,7 @@ weeks:
       - text: "Homework 2 due at 4 PM"
     
     - date: W 7/12
-      lectureTitle: "Visualizing distributions, continued"
+      lectureTitle: "Visualizing distributions - histograms"
       slidesURL: https://docs.google.com/presentation/d/1lM1kVfAP9h2tcVS7o5KazdiV2H2F0K4Sd7w4Ds5PNdA/pub?start=false&loop=false&delayms=60000
       readings:
       vitamin: "Vitamin 10"
@@ -256,7 +256,7 @@ weeks:
     basic:
     
     - date: M 7/17
-      lectureTitle: "Line plots, scatter plots, and maps"
+      lectureTitle: "Selecting rows and plotting several variables"
       slidesURL:
       readings:
       - name: "6"
@@ -266,11 +266,13 @@ weeks:
       - name: "6.2"
         URL: https://data-8r.gitbooks.io/textbook/chapters/06/2/selecting-rows.md
       - name: "6.3"
-        URL: https://data-8r.gitbooks.io/textbook/chapters/06/3/example-trends-in-the-population-of-the-united-states.md
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/3/visualizing-several-variables.md
       - name: "6.4"
-        URL: https://data-8r.gitbooks.io/textbook/chapters/06/4/example-gender-ratio-in-the-us-population.md
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/4/example-trends-in-the-population-of-the-united-states.md
+      - name: "6.5"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/06/5/example-gender-ratio-in-the-us-population.md
       vitamin: "Vitamin 12"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/x127tXg70zwTmK6u2
       assignments:
       - name: "Lab 9"
         URL:
@@ -279,15 +281,19 @@ weeks:
       lectureTitle: "Defining functions"
       slidesURL:
       readings:
+      - name: "7"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/07/functions-and-tables.html
       vitamin: "Vitamin 13"
       vitaminURL:
       assignmentsDue:
       - text: "Homework 3 due at 1 PM"
     
     - date: W 7/19
-      lectureTitle: "Calling functions on each element of a data set"
+      lectureTitle: "Calling a function on each element of a data set"
       slidesURL:
       readings:
+      - name: "7.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/07/1/applying-a-function-to-a-column.html
       vitamin: "Vitamin 14"
       vitaminURL:
       assignments:
@@ -375,15 +381,15 @@ weeks:
         URL:
     
     - date: T 8/1
+      lectureTitle: "Final review"
+      slidesURL:
       vitamin: "Vitamin 21"
       vitaminURL:
       assignmentsDue:
       - text: "Homework 5 due at 1 PM"
     
     - date: W 8/2
-      vitamin: "Vitamin 22"
-      vitaminURL:
-      lectureTitle: "Final review"
+      lectureTitle: "No class or lab - start of Summer Bridge finals period"
       assignments:
       - name: "Lab 16"
         URL:
