@@ -257,7 +257,7 @@ weeks:
     
     - date: M 7/17
       lectureTitle: "Selecting rows and plotting several variables"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1_gFwWmTvDtwNmOMe_NN3RUKEjiOuHVWWcFDluychP5o/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "6"
         URL: https://data-8r.gitbooks.io/textbook/chapters/06/tables.html
@@ -275,7 +275,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/x127tXg70zwTmK6u2
       assignments:
       - name: "Lab 9"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab09
     
     - date: T 7/18
       lectureTitle: "Defining functions"
