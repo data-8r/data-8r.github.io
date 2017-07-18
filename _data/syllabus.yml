@@ -279,12 +279,12 @@ weeks:
     
     - date: T 7/18
       lectureTitle: "Defining functions"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/e/2PACX-1vRk1wDYKZkduPwjdeA8Ejd1Z6E4MIfM5A0G3VhQxpTkUAadiRft4tJ-gaqvBbN0-dijXMJhPMgWgBe8/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "7"
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/functions-and-tables.html
       vitamin: "Vitamin 13"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/U5clf9Igzhe64Tgn1
       assignmentsDue:
       - text: "Homework 3 due at 1 PM"
     
