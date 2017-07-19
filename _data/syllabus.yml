@@ -253,8 +253,15 @@ weeks:
     weekName: "Advanced visualizations"
     weekDuration: 7/17-7/21
     announcements:
+    - date: 7/19
+      text: "Thanks for your responses to yesterday's vitamin.  There were so many interesting ideas that I probably can't get to them all, but I'll try!"
+    - date: 7/19
+      text: "Midterm grades were posted on <a href='gradescope.com'>Gradescope</a>.  Let us know if you can't log in to Gradescope.'"
+    - date: 7/19
+      text: "Homework 2 grades have been released on <a href='okpy.org'>okpy</a>."
+    - date: 7/19
+      text: "Some of the vitamins have had choose-zero-or-more questions.  Google Forms doesn't assign partial credit for those, but in our own grading we will."
     basic:
-    
     - date: M 7/17
       lectureTitle: "Selecting rows and plotting several variables"
       slidesURL: https://docs.google.com/presentation/d/1_gFwWmTvDtwNmOMe_NN3RUKEjiOuHVWWcFDluychP5o/pub?start=false&loop=false&delayms=60000
@@ -290,19 +297,19 @@ weeks:
     
     - date: W 7/19
       lectureTitle: "Calling a function on each element of a data set"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/e/2PACX-1vR8dMqhdArwlyS4bPQgvLKV-Fp1VfsKUPr7Th4V3bjvP1jrfyWNwWyCsnqc1X5IMFj1xNe1iv4Y8NZN/pub?start=false&loop=false&delayms=60000
       readings:
       - name: "7.1"
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/1/applying-a-function-to-a-column.html
       vitamin: "Vitamin 14"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/ZeLamvelH6cwNeF22
       assignments:
       - name: "Lab 10"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab10
   
     - date: Th 7/20
-      lectureTitle: "Plotting functions"
-      slidesURL:
+      lectureTitle: "Calling a function on each group of a data set"
+      slidesURL: 
       readings:
       vitamin: "Vitamin 15"
       vitaminURL:
