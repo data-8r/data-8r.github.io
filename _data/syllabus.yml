@@ -298,6 +298,7 @@ weeks:
     - date: W 7/19
       lectureTitle: "Calling a function on each element of a data set"
       slidesURL: https://docs.google.com/presentation/d/e/2PACX-1vR8dMqhdArwlyS4bPQgvLKV-Fp1VfsKUPr7Th4V3bjvP1jrfyWNwWyCsnqc1X5IMFj1xNe1iv4Y8NZN/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture14.ipynb
       readings:
       - name: "7.1"
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/1/applying-a-function-to-a-column.html
@@ -308,11 +309,14 @@ weeks:
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab10
   
     - date: Th 7/20
-      lectureTitle: "Calling a function on each group of a data set"
-      slidesURL: 
+      lectureTitle: "Calling a function on each group in a data set"
+      slidesURL: https://docs.google.com/presentation/d/e/2PACX-1vRPLLdflwo9ZPrnz2-i40QXKPcevgoc5t31IScr0TV8yp_4o-XUPyMCgx28Rpoemcsel7uaLSKec-xA/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture15.ipynb
       readings:
+      - name: "7.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/07/2/classifying-by-one-variable.md
       vitamin: "Vitamin 15"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/sMEsbII0cbRFZaQl1
       assignments:
       - name: "Homework 4"
         URL:
@@ -330,7 +334,7 @@ weeks:
     basic:
     
     - date: M 7/24
-      lectureTitle: "Averages"
+      lectureTitle: "Maps"
       slidesURL:
       readings:
       vitamin: "Vitamin 16"
@@ -340,7 +344,7 @@ weeks:
         URL:
     
     - date: T 7/25
-      lectureTitle: "Associations between numerical variables"
+      lectureTitle: "Random sampling"
       slidesURL:
       readings:
       vitamin: "Vitamin 17"
@@ -349,7 +353,7 @@ weeks:
       - text: "Homework 4 due at 1 PM"
     
     - date: W 7/26
-      lectureTitle: "Iterating and sampling"
+      lectureTitle: "The distributions of statistics"
       slidesURL:
       readings:
       vitamin: "Vitamin 18"
@@ -359,7 +363,7 @@ weeks:
         URL:
   
     - date: Th 7/27
-      lectureTitle: "The distributions of statistics"
+      lectureTitle: "The distributions of statistics, cont'd"
       slidesURL:
       readings:
       vitamin: "Vitamin 19"
@@ -381,6 +385,9 @@ weeks:
     basic:
     
     - date: M 7/31
+      lectureTitle: "Is random chance a good explanation for something?"
+      slidesURL: 
+      readings: 
       vitamin: "Vitamin 20"
       vitaminURL:
       assignments:
@@ -390,7 +397,7 @@ weeks:
     - date: T 8/1
       lectureTitle: "Final review"
       slidesURL:
-      vitamin: "Vitamin 21"
+      vitamin: "Vitamin 21 (review)"
       vitaminURL:
       assignmentsDue:
       - text: "Homework 5 due at 1 PM"

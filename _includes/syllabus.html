@@ -13,6 +13,9 @@
         {% else %}
           {{day.lectureTitle}}
         {% endif %}
+        {% if day.demosURL != null %}
+          <a href="{{day.demosURL}}">(Demos)</a>
+        {% endif %}
       </td>
     	<td>
         {% for reading in day.readings%}
