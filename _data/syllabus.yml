@@ -290,6 +290,8 @@ weeks:
       readings:
       - name: "7"
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/functions-and-tables.html
+      - name: "Section 6 worksheet"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec6/sec6.pdf
       vitamin: "Vitamin 13"
       vitaminURL: https://goo.gl/forms/U5clf9Igzhe64Tgn1
       assignmentsDue:
@@ -315,6 +317,8 @@ weeks:
       readings:
       - name: "7.2"
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/2/classifying-by-one-variable.md
+      - name: "Section 7 worksheet"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec7/sec7.pdf
       vitamin: "Vitamin 15"
       vitaminURL: https://goo.gl/forms/sMEsbII0cbRFZaQl1
       assignments:
