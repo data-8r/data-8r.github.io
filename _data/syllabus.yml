@@ -323,7 +323,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/sMEsbII0cbRFZaQl1
       assignments:
       - name: "Homework 4"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/hw/hw04
         dueDate: "7/25 at 1 PM"
     
     - date: F 7/21
