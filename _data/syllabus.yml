@@ -354,7 +354,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/iqHsUkVxkCofzWTO2
       assignments:
       - name: "Lab 12"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab12
     
     - date: T 7/25
       lectureTitle: "Random sampling"
