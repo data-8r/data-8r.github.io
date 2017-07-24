@@ -350,7 +350,7 @@ weeks:
       - name: "7.3.3"
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/3/3/drawing-maps.html
       vitamin: "Vitamin 16"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/iqHsUkVxkCofzWTO2
       assignments:
       - name: "Lab 12"
         URL:
