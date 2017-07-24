@@ -340,6 +340,7 @@ weeks:
     - date: M 7/24
       lectureTitle: "Maps"
       slidesURL: https://docs.google.com/presentation/d/e/2PACX-1vRU5mtW9RQMJ9ikWOUPLHHV2WsXcI2Q_f3Rfjcup50YDX0m2KWUWY7JEXEpnM0t01RLXy7iTgXgtz7R/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture16.ipynb
       readings:
       - name: "7.3"
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/3/example-bike-sharing-in-the-bay-area.html
