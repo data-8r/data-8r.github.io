@@ -341,6 +341,14 @@ weeks:
       lectureTitle: "Maps"
       slidesURL:
       readings:
+      - name: "7.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/07/3/example-bike-sharing-in-the-bay-area.html
+      - name: "7.3.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/07/3/1/how-long-do-trips-take.html
+      - name: "7.3.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/07/3/2/the-relationship-between-station-popularity-and-trip-duration.html
+      - name: "7.3.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/07/3/3/drawing-maps.html
       vitamin: "Vitamin 16"
       vitaminURL:
       assignments:
