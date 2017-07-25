@@ -365,6 +365,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/08/randomness.html
       - name: "8.1"
         URL: https://data-8r.gitbooks.io/textbook/chapters/08/1/jury-selection.html
+      - name: "Section 8 worksheet"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec8/sec8.pdf
       vitamin: "Vitamin 17"
       vitaminURL: https://goo.gl/forms/4ls8zKmc68EDET7U2
       assignmentsDue:
