@@ -358,10 +358,15 @@ weeks:
     
     - date: T 7/25
       lectureTitle: "Random sampling"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1fSSdornyAPH3z1iFNCS5UxLZTc_yoXAuKm6C-XD0bSU/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture16.ipynb
       readings:
+      - name: "8"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/08/randomness.html
+      - name: "8.1"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/08/1/jury-selection.html
       vitamin: "Vitamin 17"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/4ls8zKmc68EDET7U2
       assignmentsDue:
       - text: "Homework 4 due at 1 PM"
     
