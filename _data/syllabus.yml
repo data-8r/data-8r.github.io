@@ -399,7 +399,7 @@ weeks:
       vitaminURL:
       assignments:
       - name: "Lab 13"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab13
   
     - date: Th 7/27
       lectureTitle: "The distributions of statistics"
