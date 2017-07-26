@@ -57,6 +57,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/02/3/welfare-subsidies-in-mexico.html
       - name: "Section 1 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec1/sec1.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec1/sec1sol.pdf  
       vitamin: "Vitamin 2 (due 6/27 at 11:59 PM)"
       vitaminURL: https://goo.gl/forms/yk6WorMmuZQRsqyA2
       assignments:
@@ -89,6 +91,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/03/4/call-expressions.html
       - name: "Section 2 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec2/sec2.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec2/sec2sol.pdf  
       - name: "Evan Muzzall's slides on pollution and asthma (PDF)"
         URL: https://github.com/data-8r/course-assets/raw/gh-pages/lectures/lecture04-air_pollution_and_asthma.pdf
       - name: "(PowerPoint)"
@@ -169,6 +173,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/04/6/more-on-arrays.html
       - name: "Section 4 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec4/sec4.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec4/sec4sol.pdf  
       vitamin: "Vitamin 7"
       vitaminURL: https://goo.gl/forms/zhsziQkQxxA4jqNJ2
       assignments:
@@ -220,6 +226,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/05/2/visualizing-numerical-distributions.html
       - name: "Section 5 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec5/discussion5.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec5/sec5sol.pdf  
       vitamin: "Vitamin 9"
       vitaminURL: https://goo.gl/forms/hsMzbVqKmh9D1QIH3
       assignmentsDue:
@@ -292,6 +300,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/functions-and-tables.html
       - name: "Section 6 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec6/sec6.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec6/sec6sol.pdf  
       vitamin: "Vitamin 13"
       vitaminURL: https://goo.gl/forms/U5clf9Igzhe64Tgn1
       assignmentsDue:
@@ -319,6 +329,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/07/2/classifying-by-one-variable.md
       - name: "Section 7 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec7/sec7.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec7/sec7sol.pdf  
       vitamin: "Vitamin 15"
       vitaminURL: https://goo.gl/forms/sMEsbII0cbRFZaQl1
       assignments:
@@ -367,6 +379,8 @@ weeks:
         URL: https://data-8r.gitbooks.io/textbook/chapters/08/1/jury-selection.html
       - name: "Section 8 worksheet"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec8/sec8.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec8/sec8sol.pdf  
       vitamin: "Vitamin 17"
       vitaminURL: https://goo.gl/forms/4ls8zKmc68EDET7U2
       assignmentsDue:
