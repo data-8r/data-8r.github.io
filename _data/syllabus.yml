@@ -396,7 +396,7 @@ weeks:
       - name: "8.3"
         URL: https://data-8r.gitbooks.io/textbook/chapters/08/3/example-the-gsis-defense.html
       vitamin: "Vitamin 18"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/TPvBUmPbd1Cn8l3A2
       assignments:
       - name: "Lab 13"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab13
