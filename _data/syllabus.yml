@@ -387,9 +387,14 @@ weeks:
       - text: "Homework 4 due at 1 PM"
     
     - date: W 7/26
-      lectureTitle: "The distributions of statistics"
-      slidesURL:
+      lectureTitle: "Testing Hypotheses"
+      slidesURL: https://docs.google.com/presentation/d/1z1qcg17FFXXNqd6cwwErSMlKs937PeGNvy20x7eyM2A/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture18.ipynb
       readings:
+      - name: "8.2"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/08/2/terminology-of-testing.html
+      - name: "8.3"
+        URL: https://data-8r.gitbooks.io/textbook/chapters/08/3/example-the-gsis-defense.html
       vitamin: "Vitamin 18"
       vitaminURL:
       assignments:
@@ -397,8 +402,9 @@ weeks:
         URL:
   
     - date: Th 7/27
-      lectureTitle: "The distributions of statistics, cont'd"
+      lectureTitle: "The distributions of statistics"
       slidesURL:
+      demosURL: 
       readings:
       vitamin: "Vitamin 19"
       vitaminURL:
@@ -419,8 +425,9 @@ weeks:
     basic:
     
     - date: M 7/31
-      lectureTitle: "Is random chance a good explanation for something?"
+      lectureTitle: "The distributions of statistics, continued"
       slidesURL: 
+      demosURL: 
       readings: 
       vitamin: "Vitamin 20"
       vitaminURL:
@@ -438,9 +445,6 @@ weeks:
     
     - date: W 8/2
       lectureTitle: "No class or lab - start of Summer Bridge finals period"
-      assignments:
-      - name: "Lab 16"
-        URL:
   
     - date: Th 8/3
       vitamin: "Vitamin 23"
