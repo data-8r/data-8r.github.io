@@ -347,6 +347,8 @@ weeks:
     weekName: "Statistics"
     weekDuration: 7/24-7/28
     announcements:
+    - date: 7/26
+      text: "There will be two review sessions, both on the same material.  The first will be held 11 AM to 1 PM on Saturday, 7/29 in 540AB Cory (across Hearst from Soda).  The second will be 6 PM to 8 PM on Monday, 7/31 in 405 Soda."
     basic:
     
     - date: M 7/24
@@ -387,7 +389,7 @@ weeks:
       - text: "Homework 4 due at 1 PM"
     
     - date: W 7/26
-      lectureTitle: "Testing Hypotheses"
+      lectureTitle: "Testing hypotheses"
       slidesURL: https://docs.google.com/presentation/d/1z1qcg17FFXXNqd6cwwErSMlKs937PeGNvy20x7eyM2A/pub?start=false&loop=false&delayms=60000
       demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture18.ipynb
       readings:
@@ -403,8 +405,8 @@ weeks:
   
     - date: Th 7/27
       lectureTitle: "The distributions of statistics"
-      slidesURL:
-      demosURL: 
+      slidesURL: https://docs.google.com/presentation/d/1KgA3_IKlyNPhiRlCLjd51x-k_NBbUXm8z7FWd8SCIug/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture19.ipynb
       readings:
       vitamin: "Vitamin 19"
       vitaminURL:
