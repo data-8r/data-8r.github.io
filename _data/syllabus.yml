@@ -411,7 +411,7 @@ weeks:
       - name: "Section 9"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/su17/section/sec9/sec9.pdf
       vitamin: "Vitamin 19"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/DSIMDlEeYMPo4rqh1
       assignments:
       - name: "Homework 5"
         URL:
