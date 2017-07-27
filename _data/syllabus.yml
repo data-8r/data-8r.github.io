@@ -409,7 +409,7 @@ weeks:
       demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture19.ipynb
       readings:
       - name: "Section 9"
-        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/su17/section/sec9/sec9.pdf
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec9/sec9.pdf
       vitamin: "Vitamin 19"
       vitaminURL: https://goo.gl/forms/DSIMDlEeYMPo4rqh1
       assignments:
