@@ -411,9 +411,9 @@ weeks:
       - name: "Section 9"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/su17/section/sec9/sec9.pdf
       - name: "(sol)"
-        URL: https://raw.githubusercontent.com/data8r/course-assets/master/su17/section/sec9/sec9sol.pdf
+        URL: https://raw.githubusercontent.com/data-8r/course-assets/master/materials/su17/section/sec9/sec9sol.pdf
       vitamin: "Vitamin 19"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/DSIMDlEeYMPo4rqh1
       assignments:
       - name: "Homework 5"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?       account=data-8r&repo=course-assets&path=materials/su17/hw/hw5
