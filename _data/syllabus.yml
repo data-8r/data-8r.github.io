@@ -410,11 +410,13 @@ weeks:
       readings:
       - name: "Section 9"
         URL: https://raw.githubusercontent.com/data-8r/course-assets/master/su17/section/sec9/sec9.pdf
+      - name: "(sol)"
+        URL: https://raw.githubusercontent.com/data8r/course-assets/master/su17/section/sec9/sec9sol.pdf
       vitamin: "Vitamin 19"
       vitaminURL:
       assignments:
       - name: "Homework 5"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?       account=data-8r&repo=course-assets&path=materials/su17/hw/hw5
         dueDate: "8/1 at 1 PM"
     
     - date: F 7/28
