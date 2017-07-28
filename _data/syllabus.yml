@@ -453,8 +453,6 @@ weeks:
       lectureTitle: "No class or lab - start of Summer Bridge finals period"
   
     - date: Th 8/3
-      vitamin: "Vitamin 23"
-      vitaminURL:
       lectureTitle: "Final exam (1-3 PM, in your lab room)"
     
     - date: F 8/4
