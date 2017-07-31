@@ -446,7 +446,7 @@ weeks:
     - date: M 7/31
       lectureTitle: "The law of large numbers, and what to do with Data Science"
       slidesURL: https://docs.google.com/presentation/d/1FUTuy2HGtN9eqVwn5IJFMwWksTuHGPbUj-kj-SpJUnY/pub?start=false&loop=false&delayms=60000
-      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture19.ipynb
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture20.ipynb
       readings: 
       - name: "Data Science Tools and Applications"
         URL: https://github.com/data-8r/course-assets/raw/gh-pages/lectures/lecture20_datascience.pptx
