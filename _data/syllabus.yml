@@ -1,4 +1,4 @@
-currentWeek: 5
+currentWeek: 6
 
 weeks:
   - weekNum: 1
@@ -432,15 +432,21 @@ weeks:
     weekName:
     weekDuration: 7/31-8/4
     announcements:
+    - date: 7/30
+      text: "Welcome to the last week of Summer Bridge!"
+    - date: 7/30
+      text: "The second review session will be 6-8 PM on Monday, 7/31 in 405 Soda."
+    - date: 7/30
+      "Henry will hold extra office hours 3-5 PM on Tuesday, 8/1 in the Student Learning Center.  Otherwise we will have the usual office hours schedule this week, except that all office hours after the final exam are canceled."
     basic:
     
     - date: M 7/31
-      lectureTitle: "The distributions of statistics, continued"
-      slidesURL: 
-      demosURL: 
+      lectureTitle: "The law of large numbers, and what to do with Data Science"
+      slidesURL: https://docs.google.com/presentation/d/1FUTuy2HGtN9eqVwn5IJFMwWksTuHGPbUj-kj-SpJUnY/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture19.ipynb
       readings: 
       vitamin: "Vitamin 20"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/ycuhgy5sRQw4sFth2
       assignments:
       - name: "Lab 15"
         URL:
