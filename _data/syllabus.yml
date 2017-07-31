@@ -423,6 +423,7 @@ weeks:
       assignments:
       - name: "Lab 14"
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab14
+      readings:
       - name: "Survey Demo" 
         URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/demos/survey_analysis
       - name: "Playground for your own data analysis!"
