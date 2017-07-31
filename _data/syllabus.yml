@@ -450,7 +450,7 @@ weeks:
       vitaminURL: https://goo.gl/forms/ycuhgy5sRQw4sFth2
       assignments:
       - name: "Lab 15"
-        URL:
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/lab/lab15
     
     - date: T 8/1
       lectureTitle: "Final review"
