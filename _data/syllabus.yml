@@ -439,6 +439,8 @@ weeks:
       text: "The second review session will be 6-8 PM on Monday, 7/31 in 405 Soda."
     - date: 7/30
       text: "Henry will hold extra office hours 3-5 PM on Tuesday, 8/1 in the Student Learning Center.  Otherwise we will have the usual office hours schedule this week, except that all office hours after the final exam are canceled."
+    - date: 7/31
+      text: "Today's lecture will start with a presentation by Evan Muzzall about where you can go with Data Science after this course!"
     basic:
     
     - date: M 7/31
@@ -446,6 +448,10 @@ weeks:
       slidesURL: https://docs.google.com/presentation/d/1FUTuy2HGtN9eqVwn5IJFMwWksTuHGPbUj-kj-SpJUnY/pub?start=false&loop=false&delayms=60000
       demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture19.ipynb
       readings: 
+      - name: "Data Science Tools and Applications"
+        URL: https://github.com/data-8r/course-assets/raw/gh-pages/lectures/lecture20_datascience.pptx
+      - name: "(Notebook)"
+        URL: https://github.com/data-8r/course-assets/blob/gh-pages/lectures/lecture20_datascience.ipynb
       vitamin: "Vitamin 20"
       vitaminURL: https://goo.gl/forms/ycuhgy5sRQw4sFth2
       assignments:
