@@ -443,10 +443,12 @@ weeks:
       text: "Today's lecture will start with a presentation by Evan Muzzall about where you can go with Data Science after this course!"
     - date: 7/31
       text: "The final exam will include the midterm coding guide plus <a href='https://github.com/data-8r/course-assets/raw/gh-pages/exams/final_exam_tables_guide.pdf'>this additional page</a> on tables."
+    - date: 8/1
+      text: "<a href='https://github.com/data-8r/course-assets/raw/gh-pages/exams/practice_final.pdf'>Here</a> is a set of practice final exam questions.  They are not comprehensive, nor are they the same length as the actual exam, but they are good practice."
     basic:
     
     - date: M 7/31
-      lectureTitle: "The law of large numbers, and what to do with Data Science"
+      lectureTitle: "The law of large numbers, and what to do with Data Science (Evan Muzzall)"
       slidesURL: https://docs.google.com/presentation/d/1FUTuy2HGtN9eqVwn5IJFMwWksTuHGPbUj-kj-SpJUnY/pub?start=false&loop=false&delayms=60000
       demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture20.ipynb
       readings: 
@@ -464,9 +466,10 @@ weeks:
     
     - date: T 8/1
       lectureTitle: "Final review"
-      slidesURL:
+      slidesURL: https://docs.google.com/presentation/d/1lKxJEcwhH5__Lp0N7rpP2GSe8XtjEX07qbByPFeB4Qw/pub?start=false&loop=false&delayms=60000
+      demosURL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=lectures&path=lectures/lecture21.ipynb
       vitamin: "Vitamin 21 (review)"
-      vitaminURL:
+      vitaminURL: https://goo.gl/forms/805nAh4F9VRVv0OE2
       assignmentsDue:
       - text: "Homework 5 due at 1 PM"
     
