@@ -441,6 +441,8 @@ weeks:
       text: "Henry will hold extra office hours 3-5 PM on Tuesday, 8/1 in the Student Learning Center.  Otherwise we will have the usual office hours schedule this week, except that all office hours after the final exam are canceled."
     - date: 7/31
       text: "Today's lecture will start with a presentation by Evan Muzzall about where you can go with Data Science after this course!"
+    - date: 7/31
+      text: "The final exam will include the midterm coding guide plus <a href='https://github.com/data-8r/course-assets/raw/gh-pages/exams/final_exam_tables_guide.pdf'>this additional page</a> on tables."
     basic:
     
     - date: M 7/31
