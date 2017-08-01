@@ -454,6 +454,8 @@ weeks:
         URL: https://github.com/data-8r/course-assets/raw/gh-pages/lectures/lecture20_datascience.pptx
       - name: "(Notebook)"
         URL: https://github.com/data-8r/course-assets/blob/gh-pages/lectures/lecture20_datascience.ipynb
+      - name: "Review Guide Notebook"
+        URL: https://data8r.datahub.berkeley.edu/user-redirect/interact?account=data-8r&repo=course-assets&path=materials/su17/demos/review
       vitamin: "Vitamin 20"
       vitaminURL: https://goo.gl/forms/ycuhgy5sRQw4sFth2
       assignments:
